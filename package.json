@@ -1,0 +1,23 @@
+{
+    "name": "hexo-podcast-aplayer",
+    "version": "0.0.1",
+    "description": "A simple Hexo plugin to tag aplayer",
+    "main": "index",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": "hexo-podcast-aplayer",
+    "homepage": "https://github.com/wnwd/hexo-podcast-aplayer",
+    "keywords": [
+        "hexo",
+        "podcast",
+        "audio",
+        "player",
+        "tag"
+      ],
+    "author": "wnnwd",
+    "license": "MIT",
+    "engines": {
+        "node": ">=10.13.0"
+    }
+}
